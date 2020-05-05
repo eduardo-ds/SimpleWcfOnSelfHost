@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduardoSelfHost.SelfHost.ConsoleApp", "src\EduardoSelfHost.SelfHost.ConsoleApp\EduardoSelfHost.SelfHost.ConsoleApp.csproj", "{2EA84DA4-FF87-4442-AF48-0E9AA952F733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduardoSelfHost.Contracts", "src\EduardoSelfHost.Contracts\EduardoSelfHost.Contracts.csproj", "{5B2D4D67-8037-4210-BE81-62746B6EFE15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EA84DA4-FF87-4442-AF48-0E9AA952F733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA84DA4-FF87-4442-AF48-0E9AA952F733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA84DA4-FF87-4442-AF48-0E9AA952F733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA84DA4-FF87-4442-AF48-0E9AA952F733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B2D4D67-8037-4210-BE81-62746B6EFE15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2D4D67-8037-4210-BE81-62746B6EFE15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B2D4D67-8037-4210-BE81-62746B6EFE15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B2D4D67-8037-4210-BE81-62746B6EFE15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0F513FF-2166-4BA1-857D-73DEB336D48E}
+	EndGlobalSection
+EndGlobal
